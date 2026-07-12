@@ -2,13 +2,13 @@
 
 This script aims to fix a centering issue with Logitech wheels for the game My Summer Car.
 
-What does this script do?
+**What does this script do?**
 
 It uses Joystick to map your wheel to use the range that My Summer Car expects (Negative range)
 
 A .sh file is a filesystem used by linux to execute instructions in a row like a user would in a terminal.
 
-# How do I use this script?
+## How do I use this script?
 
 First you must install the package called Joystick to edit range values for your wheel.
 
@@ -33,4 +33,4 @@ For example, g920.*event-joystick , in the above snippet.
 **Finally,** You must run the script:
 ``./msc-g920-fix.sh``
 
-# For any errors, make an Issue or Contact me on discord: foxache#0100
+## For any errors, make an Issue or Contact me on discord: foxache#0100
